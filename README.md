@@ -44,6 +44,7 @@
 
 - [外国人如何购买公寓](https://x.com/shadouxing_cm/status/1798526804883656822)
 - [泰国租房自然灾害损失责任分担](https://x.com/shadouxing_cm/status/1844700120392352184)
+- [阿雅伞家政](https://ayasan-service.com/en)
 
 ## 出行
 
@@ -81,3 +82,8 @@
 ## GPT
 
 - [泰国相关GPT](https://x.com/shadouxing_cm/status/1844909212985590124)
+- [更多......](https://github.com/1arry1iu/archetype)
+
+## 联系我 
+
+X: [@shadouxing_cm](https://x.com/shadouxing_cm)

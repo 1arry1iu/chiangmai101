@@ -8,8 +8,8 @@
 - [学前教育101](https://x.com/l_edu_/status/1844893677371654612)
 - [泰制双语教育项目101](https://x.com/l_edu_/status/1844898047567986701)
 - [学校排名](https://x.com/l_edu_/status/1840386652256215501)
-- [国际幼儿园和泰制双语项目幼儿园] (https://x.com/l_edu_/status/1845665530054955489)
-- [国际学校] (https://x.com/l_edu_/status/1845667224809558181)
+- [国际幼儿园和泰制双语项目幼儿园](https://x.com/l_edu_/status/1845665530054955489)
+- [国际学校](https://x.com/l_edu_/status/1845667224809558181)
 - [私立泰制双语项目学校](https://x.com/l_edu_/status/1845669745913417768)
 - [公立泰制双语项目学校](https://x.com/l_edu_/status/1845671723712364670)
 - [国际学校和泰制双语项目学校地图](https://x.com/l_edu_/status/1834781889196179498)
@@ -49,9 +49,9 @@
 
 - [靓牌竞拍](https://x.com/shadouxing_cm/status/1812405527470542912)
 - [清迈国际二手车](https://expatautocm.com/)
-- 米其林2024年清迈最佳酒店](https://x.com/shadouxing_cm/status/1839259370464633066)
-- 老挝自驾：泰国牌照汽车如何进入老挝](https://x.com/shadouxing_cm/status/1844701431254880292)
-- 从清迈坐火车到伦敦](https://x.com/shadouxing_cm/status/1801196904065253708)
+- [米其林2024年清迈最佳酒店](https://x.com/shadouxing_cm/status/1839259370464633066)
+- [老挝自驾：泰国牌照汽车如何进入老挝](https://x.com/shadouxing_cm/status/1844701431254880292)
+- [从清迈坐火车到伦敦](https://x.com/shadouxing_cm/status/1801196904065253708)
 
 ## 食品健康安全
 

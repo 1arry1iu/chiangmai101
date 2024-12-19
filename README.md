@@ -28,7 +28,7 @@
 - [高等教育体系概述](https://x.com/shadouxing_cm/status/1827279980042322154)
 - [泰晤士高等教育2025年泰国大学排名](https://x.com/l_edu_/status/1845201403997978785)
 
-# 健康
+## 健康
 
 - [好医生推荐](https://x.com/shadouxing_cm/status/1855878225995710559)
 - [医院列表](https://x.com/shadouxing_cm/status/1845182876150792528)
@@ -49,6 +49,7 @@
 
 - [靓牌竞拍](https://x.com/shadouxing_cm/status/1812405527470542912)
 - [清迈国际二手车](https://expatautocm.com/)
+- [60铢洗车](https://github.com/1arry1iu/chiangmai101/blob/main/Vehicle/60-Baht-Car-Wash.md)
 - [米其林2024年清迈最佳酒店](https://x.com/shadouxing_cm/status/1839259370464633066)
 - [老挝自驾：泰国牌照汽车如何进入老挝](https://x.com/shadouxing_cm/status/1844701431254880292)
 - [从清迈坐火车到伦敦](https://x.com/shadouxing_cm/status/1801196904065253708)

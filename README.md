@@ -47,6 +47,7 @@
 
 ## 出行
 
+- [老爷车](https://github.com/nam-cm/nam-cm/blob/main/cars/vintage-cars.md)
 - [靓牌竞拍](https://x.com/shadouxing_cm/status/1812405527470542912)
 - [清迈国际二手车](https://expatautocm.com/)
 - [60铢洗车](https://github.com/1arry1iu/chiangmai101/blob/main/Vehicle/60-Baht-Car-Wash.md)

@@ -1,0 +1,43 @@
+## Good Doctors | 好医生
+
+### Dentistry | 牙科
+
+- Dr. Niramol Methaspornpong | [Ram](https://chiangmairam.com/searchdoctor1?major_id=main_type14&doctor=82)
+
+### Dermatology | 皮肤科
+
+- Dr. Vachiraporn Sujaritwanichpong | [Ram](https://chiangmairam.com/searchdoctor1?major_id=130&doctor=43)
+
+### Ear, Nose, and Throat | 耳鼻喉科
+
+- Dr. Chalermpong Ariyadej | [Ram](https://chiangmairam.com/searchdoctor1?major_id=main_type13&doctor=1)
+
+### Gastroenterology | 消化科
+
+- Dr. Jaruwat Yossombat | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=6)
+
+### Neurology | 神经科
+- Dr. Tanat Vaniyapong | Bangkok & [Sriphat](http://neurosurgerycmu.com/people/179/)
+
+### OB-GYN | 妇产科
+
+- Dr. Chatree Prakobkarn | McCormick
+- Dr. Suppachai Sirisukkasem | [Ram](https://chiangmairam.com/searchdoctor1?major_id=133&doctor=24)
+
+###  Ophthalmology | 眼科
+
+- Dr. Janejit Choovuthayakorn | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=114) & [Sriphat](https://scholars.med.cmu.ac.th/Choovuthayakorn/Janejit/)
+- Dr. Kornkamon Sertsom | [Ram](https://chiangmairam.com/searchdoctor1?major_id=133&doctor=184)
+- Dr. Paradee Kunavisarut | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=117) & [Sriphat](https://w1.med.cmu.ac.th/ophthalmology/en/paradee-kunavisarut-detail/)
+
+### Orthopedics | 骨科
+
+- Dr. Anupong Laohapoonrungsee | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=272) & [Sriphat](https://w1.med.cmu.ac.th/ortho/index.php?option=com_content&view=article&id=35)
+
+### Pediatrics | 儿科
+
+- Dr. Surasit Sakrasae | [Ram](https://chiangmairam.com/searchdoctor1?major_id=112&doctor=59)
+
+### Urology | 泌尿科
+
+- Dr. Phitsanu Mahawong | [Ram](https://chiangmairam.com/searchdoctor1?major_id=112&doctor=105) & [Sriphat](https://scholars.med.cmu.ac.th/Mahawong/Phitsanu/)

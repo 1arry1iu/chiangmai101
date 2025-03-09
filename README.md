@@ -27,7 +27,7 @@
 
 ## 健康
 
-- [好医生推荐](https://x.com/shadouxing_cm/status/1855878225995710559)
+- [好医生推荐](https://github.com/1arry1iu/chiangmai101/blob/main/Health/Good-Doctors.md)
 - [医院列表](https://x.com/shadouxing_cm/status/1845182876150792528)
 - [清迈大学医学院泰国传统医学与综合医学中心](https://x.com/shadouxing_cm/status/1828792192988762138)
 - [清迈市立医院泰国传统医学中心](https://x.com/shadouxing_cm/status/1828789854483939800)

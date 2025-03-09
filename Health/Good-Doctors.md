@@ -16,6 +16,10 @@
 
 - Dr. Jaruwat Yossombat | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=6)
 
+### Internal Medicine | 内科
+
+- Dr. Thamanoon Keeratikunakorn | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=139)
+
 ### Neurology | 神经科
 - Dr. Tanat Vaniyapong | Bangkok & [Sriphat](http://neurosurgerycmu.com/people/179/)
 
@@ -23,6 +27,10 @@
 
 - Dr. Chatree Prakobkarn | McCormick
 - Dr. Suppachai Sirisukkasem | [Ram](https://chiangmairam.com/searchdoctor1?major_id=133&doctor=24)
+
+### Oncology | 癌症科
+
+- Dr. Rattiya Cheewakriangkrai | [Ram](https://chiangmairam.com/searchdoctor1?major_id=133&doctor=5)
 
 ###  Ophthalmology | 眼科
 
@@ -33,6 +41,7 @@
 ### Orthopedics | 骨科
 
 - Dr. Anupong Laohapoonrungsee | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=272) & [Sriphat](https://w1.med.cmu.ac.th/ortho/index.php?option=com_content&view=article&id=35)
+- Dr. Sakkadech Limmahakhun | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=278), [Sakkadech Clinic](https://www.sakkadech.com/about-us) & [Sriphat](https://sriphat.med.cmu.ac.th/en/doctor/detail/209)
 
 ### Pediatrics | 儿科
 

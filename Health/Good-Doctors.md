@@ -40,6 +40,7 @@
 
 ### Orthopedics | 骨科
 
+- Dr. Anugoon Niramitsantiphong | [Ram](https://chiangmairam.com/searchdoctor1?major_id=133&doctor=277)
 - Dr. Anupong Laohapoonrungsee | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=272) & [Sriphat](https://w1.med.cmu.ac.th/ortho/index.php?option=com_content&view=article&id=35)
 - Dr. Sakkadech Limmahakhun | [Ram](https://chiangmairam.com/searchdoctor1?major_id=54&doctor=278), [Sakkadech Clinic](https://www.sakkadech.com/about-us) & [Sriphat](https://sriphat.med.cmu.ac.th/en/doctor/detail/209)
 

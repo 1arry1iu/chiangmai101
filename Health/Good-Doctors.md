@@ -27,7 +27,7 @@
 ### Neurology | 神经科
 - Dr. Tanat Vaniyapong | Bangkok & [Sriphat](http://neurosurgerycmu.com/people/179/)
 
-### OB-GYN | 妇产科
+### Obstetrics | 产科
 
 - Dr. Chatree Prakobkarn | McCormick
 - Dr. Suppachai Sirisukkasem | [Ram](https://chiangmairam.com/searchdoctor1?doctor=24)

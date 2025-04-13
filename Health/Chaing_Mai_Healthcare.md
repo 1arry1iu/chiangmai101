@@ -48,7 +48,7 @@
 | [Saint Peter Eye Hospital (圣彼得眼科医院)](https://stpeter-eye.com) | Ophthalmology (眼科) | Private (私立) |
 | [Sriphat Medical Center (喜法医疗中心)](https://sriphat.med.cmu.ac.th) | Comprehensive (综合) | Chiang Mai University (清迈大学) |
 | [Suanprung Psychiatric Hospital (素安普朗精神医院)](https://suanprung.go.th) | Psychiatry (精神科) | Private (私立) |
-| [Thai Traditional and Complementary Medicine Center (泰国传统医学与综合医学中心) | Alternative Medicine (非正统医学) | Chiang Mai University (清迈大学) |
+| [Thai Traditional and Complementary Medicine Center (泰国传统医学与综合医学中心)](https://excellent.med.cmu.ac.th/website/th/ttcm) | Alternative Medicine (非正统医学) | Chiang Mai University (清迈大学) |
 | Chiang Mai Hospital Thai Traditional Medicine Center (清迈市医院泰国传统医学中心) | Alternative Medicine (非正统医学) | Public (公立) |
 | [Thanyarak Chiang Mai Hospital (清迈潭亚拉医院)](https://tch.go.th) | Drug Rehabilitation (物质成瘾科) | Public (公立) |
 | [Theppanya Hospital (泰帕雅医院)](http://theppanya.com) | Comprehensive (综合) | Private (私立) |

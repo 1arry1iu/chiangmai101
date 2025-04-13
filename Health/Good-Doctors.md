@@ -22,7 +22,7 @@
 
 ### Neonatology | 新生儿科
 
-- Dr. Woraporn Tiyaprasertkul | [Ram](https://chiangmairam.com/searchdoctor1?doctor=178) | [Sriphat](https://sriphat.med.cmu.ac.th/en/doctor/detail/142)
+- Dr. Woraporn Tiyaprasertkul | [Ram](https://chiangmairam.com/searchdoctor1?doctor=178) & [Sriphat](https://sriphat.med.cmu.ac.th/en/doctor/detail/142)
 
 ### Neurology | 神经科
 - Dr. Tanat Vaniyapong | Bangkok & [Sriphat](http://neurosurgerycmu.com/people/179/)

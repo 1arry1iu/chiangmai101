@@ -33,6 +33,7 @@
 | [Chiang Mai Klaimor Hospital (清迈克莱默医院)](https://chiangmaiklaimor-hosp.com) | Comprehensive (综合) | Private (私立) |
 | [Chiang Mai Medical Center Hospital (清迈医疗中心医院)](https://cmc-hospital.com) | Comprehensive (综合) | Private (私立) |
 | Chiang Mai Municipality Hospital (清迈市立医院) | Comprehensive (综合) | Public (公立) |
+| Chiang Mai Municipal Hospital Thai Traditional Medicine Center (清迈市医院泰国传统医学中心) | Alternative Medicine (非正统医学) | Public (公立) |
 | [Chiang Mai Neurological Hospital (清迈神经医院)](https://cmneuro.go.th) | Neurology (神经科) | Public (公立) |
 | [Chiang Mai Ram Hospital (清迈兰医院)](https://chiangmairam.com) | Comprehensive (综合) | Private (私立) |
 | Chiang Mai University Dental Hospital (清迈大学牙科医院) | Dentistry (牙科) | CMU (清迈大学) |
@@ -49,6 +50,5 @@
 | [Sriphat Medical Center (喜法医疗中心)](https://sriphat.med.cmu.ac.th) | Comprehensive (综合) | CMU (清迈大学) |
 | [Suanprung Psychiatric Hospital (算鹏精神医院)](https://suanprung.go.th) | Psychiatry (精神科) | Private (私立) |
 | [Thai Traditional and Complementary Medicine Center (泰国传统医学与综合医学中心)](https://excellent.med.cmu.ac.th/website/th/ttcm) | Alternative Medicine (非正统医学) | CMU (清迈大学) |
-| Chiang Mai Hospital Thai Traditional Medicine Center (清迈市医院泰国传统医学中心) | Alternative Medicine (非正统医学) | Public (公立) |
 | [Thanyarak Chiang Mai Hospital (清迈潭亚拉医院)](https://tch.go.th) | Drug Rehabilitation (物质成瘾科) | Public (公立) |
 | [Theppanya Hospital (泰帕雅医院)](http://theppanya.com) | Comprehensive (综合) | Private (私立) |

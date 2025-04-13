@@ -35,10 +35,10 @@
 | Chiang Mai Municipality Hospital (清迈市立医院) | Comprehensive (综合) | Public (公立) |
 | [Chiang Mai Neurological Hospital (清迈神经医院)](https://cmneuro.go.th) | Neurology (神经科) | Public (公立) |
 | [Chiang Mai Ram Hospital (清迈兰医院)](https://chiangmairam.com) | Comprehensive (综合) | Private (私立) |
-| Chiang Mai University Dental Hospital (清迈大学牙科医院) | Dentistry (牙科) | Chiang Mai University (清迈大学) |
-| [Dent CMU Clinics (清迈大学牙科诊所)](https://clinic.dent.cmu.ac.th) | Dentistry (牙科) | Chiang Mai University (清迈大学) |
+| Chiang Mai University Dental Hospital (清迈大学牙科医院) | Dentistry (牙科) | CMU (清迈大学) |
+| [Dent CMU Clinics (清迈大学牙科诊所)](https://clinic.dent.cmu.ac.th) | Dentistry (牙科) | CMU (清迈大学) |
 | [Lanna Hospital (兰纳医院)](https://lanna-hospital.com) | Comprehensive (综合) | Private (私立) |
-| [Maharaj Nakorn Chiang Mai Hospital (Suandok) (清迈大学附属医院)](https://med.cmu.ac.th/web/suandok-hospital/) | Comprehensive (综合) | Chiang Mai University (清迈大学) |
+| [Maharaj Nakorn Chiang Mai Hospital (Suandok) (清迈大学附属医院)](https://med.cmu.ac.th/web/suandok-hospital/) | Comprehensive (综合) | CMU (清迈大学) |
 | [McCormick Hospital (麦科米克医院)](https://mccormickhospital.com) | Comprehensive (综合) | Private (私立) |
 | [McKean Senior Center and Hospital (麦坚老年中心暨医院)](https://mckean.or.th) | Geriatrics (老年医学) | Private (私立) |
 | [MT InterMed Hospital (MT国际医疗医院)](https://facebook.com/mtintermed/) | Comprehensive (综合) | Private (私立) |
@@ -46,9 +46,9 @@
 | [Rajanagarindra Institute of Child Development (拉贾纳嘎琳达儿童发展研究院)](https://ricd.go.th) | Psychiatry (儿科) | Public (公立) |
 | [Rajavej Chiang Mai Hospital (清迈皇家医院)](https://rajavejchiangmai.com) | Comprehensive (综合) | Private (私立) |
 | [Saint Peter Eye Hospital (圣彼得眼科医院)](https://stpeter-eye.com) | Ophthalmology (眼科) | Private (私立) |
-| [Sriphat Medical Center (喜法医疗中心)](https://sriphat.med.cmu.ac.th) | Comprehensive (综合) | Chiang Mai University (清迈大学) |
+| [Sriphat Medical Center (喜法医疗中心)](https://sriphat.med.cmu.ac.th) | Comprehensive (综合) | CMU (清迈大学) |
 | [Suanprung Psychiatric Hospital (算鹏精神医院)](https://suanprung.go.th) | Psychiatry (精神科) | Private (私立) |
-| [Thai Traditional and Complementary Medicine Center (泰国传统医学与综合医学中心)](https://excellent.med.cmu.ac.th/website/th/ttcm) | Alternative Medicine (非正统医学) | Chiang Mai University (清迈大学) |
+| [Thai Traditional and Complementary Medicine Center (泰国传统医学与综合医学中心)](https://excellent.med.cmu.ac.th/website/th/ttcm) | Alternative Medicine (非正统医学) | CMU (清迈大学) |
 | Chiang Mai Hospital Thai Traditional Medicine Center (清迈市医院泰国传统医学中心) | Alternative Medicine (非正统医学) | Public (公立) |
 | [Thanyarak Chiang Mai Hospital (清迈潭亚拉医院)](https://tch.go.th) | Drug Rehabilitation (物质成瘾科) | Public (公立) |
 | [Theppanya Hospital (泰帕雅医院)](http://theppanya.com) | Comprehensive (综合) | Private (私立) |

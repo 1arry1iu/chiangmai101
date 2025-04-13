@@ -1,4 +1,4 @@
-## Good Doctors | 好医生
+## Good Doctors in Chiang Mai | 清迈好医生
 
 ### Dentistry | 牙科
 

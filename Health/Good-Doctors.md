@@ -11,7 +11,7 @@
 | Internal Medicine (内科) | Dr. Thamanoon Keeratikunakorn | [Ram (兰医院)](https://chiangmairam.com/searchdoctor1?doctor=139) |
 | Neonatology (新生儿科) | Dr. Woraporn Tiyaprasertkul | [Ram (兰医院)](https://chiangmairam.com/searchdoctor1?doctor=178) & [Sriphat (喜法)](https://sriphat.med.cmu.ac.th/en/doctor/detail/142) |
 | Neurology (神经科) | Dr. Tanat Vaniyapong | Bangkok (曼谷医院) & [Sriphat (喜法)](http://neurosurgerycmu.com/people/179/) |
-| Obstetrics (产科) | Dr. Chatree Prakobkarn | McCormick |
+| Obstetrics (产科) | Dr. Chatree Prakobkarn | McCormick (麦科米克) |
 | Obstetrics (产科) | Dr. Suppachai Sirisukkasem | [Ram (兰医院)](https://chiangmairam.com/searchdoctor1?doctor=24) |
 | Oncology (癌症科) | Dr. Rattiya Cheewakriangkrai | [Ram (兰医院)](https://chiangmairam.com/searchdoctor1?doctor=5) |
 | Ophthalmology (眼科) | Dr. Janejit Choovuthayakorn | [Ram (兰医院)](https://chiangmairam.com/searchdoctor1?doctor=114) & [Sriphat (喜法)](https://scholars.med.cmu.ac.th/Choovuthayakorn/Janejit/) |

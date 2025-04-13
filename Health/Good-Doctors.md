@@ -1,4 +1,6 @@
-## Good Doctors in Chiang Mai | 清迈好医生
+## Chiang Mai Healthcare (清迈医疗)
+
+### Good Doctors in Chiang Mai (清迈好医生)
 
 | Department (科室) | Doctor (医生) | Hospital (医院) |
 |---|---|---|
@@ -20,3 +22,31 @@
 | Orthopedics (骨科) | Dr. Sakkadech Limmahakhun | [Ram](https://chiangmairam.com/searchdoctor1?doctor=278), [Sakkadech Clinic](https://www.sakkadech.com/about-us) & [Sriphat](https://sriphat.med.cmu.ac.th/en/doctor/detail/209) |
 | Pediatrics (儿科) | Dr. Surasit Sakrasae | [Ram](https://chiangmairam.com/searchdoctor1?doctor=59) |
 | Urology (泌尿科) | Dr. Phitsanu Mahawong | [Ram](https://chiangmairam.com/searchdoctor1?doctor=105) & [Sriphat](https://scholars.med.cmu.ac.th/Mahawong/Phitsanu/) |
+
+### Hospitals in Chiang Mai (清迈医院列表)
+
+| Hospital (医院) | Scope (类型) | Ownership (所有权) |
+|---|---|---|
+| [Bangkok Hospital Chiang Mai (清迈曼谷医院)](https://bangkokhospital-chiangmai.com) | Comprehensive (综合) | Private (私立) |
+| [Central Chiang Mai Memorial Hospital (清迈中央纪念医院)](https://facebook.com/centralcmhospital/) | Comprehensive (综合) | Private (私立) |
+| [Chiang Mai Hospital (清迈医院)](https://chiangmai-hospital.com) | Comprehensive (综合) | Private (私立) |
+| [Chiang Mai Klaimor Hospital (清迈克莱默医院)](https://chiangmaiklaimor-hosp.com) | Comprehensive (综合) | Private (私立) |
+| [Chiang Mai Medical Center Hospital (清迈医疗中心医院)](https://cmc-hospital.com) | Comprehensive (综合) | Private (私立) |
+| Chiang Mai Municipality Hospital (清迈市立医院) | Comprehensive (综合) | Public (公立) |
+| [Chiang Mai Neurological Hospital (清迈神经医院)](https://cmneuro.go.th) | Neurology (神经科) | Public (公立) |
+| [Chiang Mai Ram Hospital (清迈兰医院)](https://chiangmairam.com) | Comprehensive (综合) | Private (私立) |
+| Chiang Mai University Dental Hospital (清迈大学牙科医院) | Dentistry (牙科) | University (大学) |
+| [Dent CMU Clinics (清迈大学牙科诊所)](https://clinic.dent.cmu.ac.th) | Dentistry (牙科) | University (大学) |
+| [Lanna Hospital (兰纳医院)](https://lanna-hospital.com) | Comprehensive (综合) | Private (私立) |
+| [Maharaj Nakorn Chiang Mai Hospital (Suandok) (清迈大学附属医院)](https://med.cmu.ac.th/web/suandok-hospital/) | Comprehensive (综合) | University (大学) |
+| [McCormick Hospital (麦科米克医院)](https://mccormickhospital.com) | Comprehensive (综合) | Private (私立) |
+| [McKean Senior Center and Hospital (麦坚老年中心暨医院)](https://mckean.or.th) | Geriatrics (老年医学) | Private (私立) |
+| [MT InterMed Hospital (MT国际医疗医院)](https://facebook.com/mtintermed/) | Comprehensive (综合) | Private (私立) |
+| [Nakornping Hospital (娜空萍医院)](https://nkp-hospital.go.th) | Comprehensive (综合) | Public (公立) |
+| [Rajanagarindra Institute of Child Development (拉贾纳嘎琳达儿童发展研究院)](https://ricd.go.th) | Psychiatry (儿科) | Public (公立) |
+| [Rajavej Chiang Mai Hospital (清迈皇家医院)](https://rajavejchiangmai.com) | Comprehensive (综合) | Private (私立) |
+| [Saint Peter Eye Hospital (圣彼得眼科医院)](https://stpeter-eye.com) | Ophthalmology (眼科) | Private (私立) |
+| [Sriphat Medical Center (喜法医疗中心)](https://sriphat.med.cmu.ac.th) | Comprehensive (综合) | University (大学) |
+| [Suanprung Psychiatric Hospital (素安普朗精神医院)](https://suanprung.go.th) | Psychiatry (精神科) | Private (私立) |
+| [Thanyarak Chiang Mai Hospital (清迈潭亚拉医院)](https://tch.go.th) | Drug Rehabilitation (物质成瘾科) | Public (公立) |
+| [Theppanya Hospital (泰帕雅医院)](http://theppanya.com) | Comprehensive (综合) | Private (私立) |

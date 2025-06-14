@@ -2,6 +2,8 @@
 
 # 清迈101
 
+## [清迈生活地图](https://www.google.com/maps/d/u/0/edit?mid=1Sm54BUI7Ddt5hjqRUktFB-sX6eiwSHQ&usp=sharing)
+
 ## 基础教育
 
 - [学前教育101](https://x.com/l_edu_/status/1844893677371654612)
@@ -24,16 +26,6 @@
 
 - [高等教育体系概述](https://x.com/shadouxing_cm/status/1827279980042322154)
 - [泰晤士高等教育2025年泰国大学排名](https://x.com/l_edu_/status/1845201403997978785)
-
-## 健康
-
-- [清迈医疗](https://github.com/1arry1iu/chiangmai101/blob/main/Health/Chaing_Mai_Healthcare.md)
-- [清迈大学医学院泰国传统医学与综合医学中心](https://x.com/shadouxing_cm/status/1828792192988762138)
-- [清迈市立医院泰国传统医学中心](https://x.com/shadouxing_cm/status/1828789854483939800)
-- [麦科米克医院HPV疫苗价格](https://x.com/shadouxing_cm/status/1849369047919697959)
-- [纳药房](https://maps.app.goo.gl/JN2oSJmPbpjgPhgL9)
-- [清迈快捷眼镜市场](https://maps.app.goo.gl/NCgZAC7eDWdBc9mf8)
-- [曼谷BN眼镜店](https://x.com/shadouxing_cm/status/1852948749599080473)
 
 ## 居家
 

@@ -34,7 +34,7 @@
 | [Chiang Mai Medical Center Hospital (清迈医疗中心医院)](https://cmc-hospital.com) | Comprehensive (综合) | Private (私立) |
 | Chiang Mai Municipality Hospital (清迈市立医院) | Comprehensive (综合) | Public (公立) |
 | Chiang Mai Municipal Hospital Thai Traditional Medicine Center (清迈市医院泰国传统医学中心) | Alternative Medicine (非正统医学) | Public (公立) |
-| [Chiang Mai Neurological Hospital (清迈神经医院)](https://cmneuro.go.th) | Neurology (神经科) | Public (公立) |
+| [Chiang Mai Neurological Hospital (清迈神经医院)](https://cmneuro.go.th) | Neurology (神经科) | CMU (清迈大学) |
 | [Chiang Mai Ram Hospital (清迈兰医院)](https://chiangmairam.com) | Comprehensive (综合) | Private (私立) |
 | Chiang Mai University Dental Hospital (清迈大学牙科医院) | Dentistry (牙科) | CMU (清迈大学) |
 | [Dent CMU Clinics (清迈大学牙科诊所)](https://clinic.dent.cmu.ac.th) | Dentistry (牙科) | CMU (清迈大学) |
